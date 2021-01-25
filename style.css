@@ -1,0 +1,18 @@
+.button {
+    background: rgb(106, 30, 141);
+    color: white;
+}
+
+body{
+    background-color: rgb(20, 177, 250);
+}
+
+form {
+    text-align: center;
+}
+
+#header {
+    background: blue;
+    color: white;
+    text-align: right;
+}
